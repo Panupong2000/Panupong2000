@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi, I'm Panupong Saejeong,a student form Kmutnb, looking for Full Stack Developer 🚀, from Thailand, currently, [@GSPACE](https://glammingspace.blogspot.com) I enjoy traveling ans series.
+Hi, I'm Panupong Saejeong,a student form Kmutnb, looking for Full Stack Developer 🚀, from Thailand, currently, I enjoy traveling ans series.
 
 **Languages and Tools:**  
 
@@ -32,9 +32,6 @@ Hi, I'm Panupong Saejeong,a student form Kmutnb, looking for Full Stack Develope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-
-![Adarshreddy's github stats](https://github-readme-stats.vercel.app/api?username=adarshreddyash&show_icons=true&hide_border=true)
-
 //credits to creators
 
 
@@ -51,4 +48,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Adarshreddy's github stats](https://github-readme-stats.vercel.app/api?username=adarshreddyash&show_icons=true&hide_border=true)
 -->
