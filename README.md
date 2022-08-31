@@ -14,18 +14,7 @@
 <br />
 <br />
 
-Hi, I'm Adarshreddy, a Full Stack Developer 🚀 from India, currently, I'm a Blogger 🙍🏽‍♂️ [@GSPACE](https://glammingspace.blogspot.com), Freelancer 👨🏽‍💻, Beside's programming, I enjoy podcasts and traveling.
-  
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on [Ronix](https://github.com/Adarshreddyash/ronix-frontend);
-- 🌱 I’m currently learning GraphQL ,typescript and Kubernetes; 
-- 👯 I’m looking to collaborate on [Ronix](https://github.com/Adarshreddyash/ronix-frontend) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Vengixlabs:My future Project which helps in R&D for companies. 
-- 📫 How to reach me: adarshreddy9849@gmail.com;
-- 📝[Resume](https://adarshreddyash.me/assets/Adarshreddy's%20Resume.pdf)
+Hi, I'm Panupong Saejeong,a student form Kmutnb, looking for Full Stack Developer 🚀, from Thailand, currently, [@GSPACE](https://glammingspace.blogspot.com) I enjoy traveling ans series.
 
 **Languages and Tools:**  
 
